@@ -1,0 +1,10 @@
+{
+  "name": "tp4-nyamsi-cesaire",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test seance4-patterns/tp4-NYAMSI-Cesaire/tp4.test.js",
+    "demo": "node seance4-patterns/tp4-NYAMSI-Cesaire/main.js"
+  }
+}
